@@ -98,7 +98,7 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>TIPO CONCEITO</b>: Propriedade <i>Domínio</i>: Inquilinismo <i>Escopo</i>: nome científico
 
-<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#comensalcom
+<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#hospedeiro
 
 <b>ETIQUETA LINGUÍSTICA</b>: Hospedeiro
 
