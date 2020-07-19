@@ -93,3 +93,18 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>OBSERVAÇÕES</b>: Exemplo: bromélias que se desenvolvem sobre os troncos das árvores.
 
+# hospedeiro
+<b>IDENT. CONCEITO</b>: hospedeiro
+
+<b>TIPO CONCEITO</b>: Propriedade <i>Domínio</i>: Inquilinismo <i>Escopo</i>: nome científico
+
+<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#comensalcom
+
+<b>ETIQUETA LINGUÍSTICA</b>: Hospedeiro
+
+<b>USO</b>: opcional
+
+<b>DEFINIÇÃO</b>: Organismo que abriga outro organismo em seu corpo.
+
+<b>OBSERVAÇÕES</b>: A melhor prática recomendada é inserir o nome científico completo da espécie hospedeira, com autor e data, se conhecidos. 
+
