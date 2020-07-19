@@ -19,3 +19,20 @@ This repository presents a group of terms that can be used as metadata elements 
 # Descritores
 
 # Mutualismo
+<b>IDENT. CONCEITO</b>: mutualismo
+
+<b>TIPO CONCEITO</b>:
+<i>Domínio</i>:
+<i>Escopo</i>:
+
+<b>NAMESPACE</b>:
+
+<b>NAMESPACE CONCEITO</b>:
+
+<b>ETIQUETA LINGUÍSTICA</b>:
+
+<b>USO</b>:
+
+<b>DEFINIÇÃO</b>:
+
+<b>OBSERVAÇÕES</b>:
