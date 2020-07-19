@@ -14,18 +14,14 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>Latest Version</b>: 
 
-<b>namespace</b>:
+<b>namespace vocabulário</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#intera%C3%A7%C3%B5es-ecol%C3%B3gicas
 
 # Descritores
 
 # Mutualismo
 <b>IDENT. CONCEITO</b>: mutualismo
 
-<b>TIPO CONCEITO</b>: Entidade
-<i>Domínio</i>: interações ecológicas
-<i>Escopo</i>:
-
-<b>NAMESPACE</b>:
+<b>TIPO CONCEITO</b>: Entidade <i>Domínio</i>: interações ecológicas <i>Escopo</i>:
 
 <b>NAMESPACE CONCEITO</b>:
 
