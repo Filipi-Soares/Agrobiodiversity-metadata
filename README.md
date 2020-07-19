@@ -38,12 +38,13 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>TIPO CONCEITO</b>: Propriedade <i>Domínio</i>: Mutualismo <i>Escopo</i>: nome científico
 
-<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#mutualismo
+<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#mutualisticocom
 
-<b>ETIQUETA LINGUÍSTICA</b>: Mutualismo
+<b>ETIQUETA LINGUÍSTICA</b>: Mutualistico com
 
 <b>USO</b>: opcional
 
-<b>DEFINIÇÃO</b>: Interação harmônica interespecífica em que ambos os organismos envolvidos são beneficiados.
+<b>DEFINIÇÃO</b>: Espécie que realiza interação mutualística com a espécie sujeito do registro.
 
-<b>OBSERVAÇÕES</b>: Exemplos comuns são a polinização, fungos liquenizados, flora intestinal etc.
+<b>OBSERVAÇÕES</b>: A melhor prática recomendada é inserir o nome científico completo da espécie, com autor e data, se conhecidos.
+
