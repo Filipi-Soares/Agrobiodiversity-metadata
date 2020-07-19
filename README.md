@@ -48,3 +48,18 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>OBSERVAÇÕES</b>: A melhor prática recomendada é inserir o nome científico completo da espécie, com autor e data, se conhecidos.
 
+# comensalismo
+<b>IDENT. CONCEITO</b>: comensalismo
+
+<b>TIPO CONCEITO</b>: Entidade <i>Domínio</i>: interações ecológicas <i>Escopo</i>:
+
+<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#mutualismo
+
+<b>ETIQUETA LINGUÍSTICA</b>: Mutualismo
+
+<b>USO</b>: opcional
+
+<b>DEFINIÇÃO</b>: Interação harmônica interespecífica em que ambos os organismos envolvidos são beneficiados.
+
+<b>OBSERVAÇÕES</b>: Exemplos comuns são a polinização, fungos liquenizados, flora intestinal etc.
+
