@@ -12,7 +12,7 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>Date Issued</b>: 2020-07-19
 
-<b>Latest Version</b>: 
+<b>Latest Version</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#intera%C3%A7%C3%B5es-ecol%C3%B3gicas
 
 <b>namespace vocabulário</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#descritores
 
