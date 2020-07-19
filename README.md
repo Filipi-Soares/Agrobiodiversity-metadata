@@ -1,5 +1,6 @@
 # Interações ecológicas
-This repository presents a group of terms that can be used as metadata elements within Darwin Core and other metadata standards registries.
+Este conjunto de descritores foi desenvolvido como atividade didática para a oficina VOCABULÁRIOS E ACESSO A RECURSOS DIGITAIS NA WEB; SKOS E 
+INTEROPERABILIDADE ENTRE VOCABULÁRIOS, ministrada pelo Professor Dr. <a href="http://lattes.cnpq.br/6126712875843734">Carlos Henrique Marcondes de Almeida</a>, que faz parte do conjunto de atividades oferecidas pelo <a href="http://ppggoc.eci.ufmg.br/">PPGGOC-UFMG</a> em tempos de pandemia de Covid-19.
 
 # Regras de aplicação
 1 - O uso de todos os termos da extensão é opicional e devem ser combinados a outros esquemas de metadados, como <a href="https://dwc.tdwg.org">Darwin Core</a> e <a href="https://eml.ecoinformatics.org">Ecological Metadata Language</a>.
