@@ -16,4 +16,6 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>namespace</b>:
 
-   
+# Descritores
+
+# Mutualismo
