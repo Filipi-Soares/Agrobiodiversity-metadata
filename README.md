@@ -53,13 +53,13 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>TIPO CONCEITO</b>: Entidade <i>Domínio</i>: interações ecológicas <i>Escopo</i>:
 
-<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#mutualismo
+<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#comensalismo
 
-<b>ETIQUETA LINGUÍSTICA</b>: Mutualismo
+<b>ETIQUETA LINGUÍSTICA</b>: Comensalismo
 
 <b>USO</b>: opcional
 
-<b>DEFINIÇÃO</b>: Interação harmônica interespecífica em que ambos os organismos envolvidos são beneficiados.
+<b>DEFINIÇÃO</b>: Interação harmônica interespecífica em que um organismo obtém alimento a partir de outro, sem causar prejuízos ou benefícios para ele.
 
-<b>OBSERVAÇÕES</b>: Exemplos comuns são a polinização, fungos liquenizados, flora intestinal etc.
+<b>OBSERVAÇÕES</b>: Exemplo: associação entre rêmora e o tubarão.
 
