@@ -83,7 +83,7 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>TIPO CONCEITO</b>: Entidade <i>Domínio</i>: interações ecológicas <i>Escopo</i>:
 
-<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#comensalismo
+<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#inquilinismo
 
 <b>ETIQUETA LINGUÍSTICA</b>: Inquilinismo
 
