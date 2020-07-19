@@ -21,8 +21,8 @@ This repository presents a group of terms that can be used as metadata elements 
 # Mutualismo
 <b>IDENT. CONCEITO</b>: mutualismo
 
-<b>TIPO CONCEITO</b>:
-<i>Domínio</i>:
+<b>TIPO CONCEITO</b>: Entidade
+<i>Domínio</i>: interações ecológicas
 <i>Escopo</i>:
 
 <b>NAMESPACE</b>:
