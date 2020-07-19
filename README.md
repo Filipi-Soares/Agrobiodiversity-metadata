@@ -68,13 +68,13 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>TIPO CONCEITO</b>: Propriedade <i>Domínio</i>: Comensalismo <i>Escopo</i>: nome científico
 
-<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#mutualisticocom
+<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#comensalcom
 
-<b>ETIQUETA LINGUÍSTICA</b>: Mutualistico com
+<b>ETIQUETA LINGUÍSTICA</b>: Comensal com
 
 <b>USO</b>: opcional
 
-<b>DEFINIÇÃO</b>: Espécie que realiza interação mutualística com a espécie sujeito do registro.
+<b>DEFINIÇÃO</b>: Espécie que realiza interação comensalista com outra espécie.
 
-<b>OBSERVAÇÕES</b>: A melhor prática recomendada é inserir o nome científico completo da espécie, com autor e data, se conhecidos.
+<b>OBSERVAÇÕES</b>: A melhor prática recomendada é inserir o nome científico completo da espécie, com autor e data, se conhecidos. 
 
