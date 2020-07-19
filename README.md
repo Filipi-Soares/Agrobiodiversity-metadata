@@ -4,7 +4,7 @@ This repository presents a group of terms that can be used as metadata elements 
 # Regras de aplicação
 1 - O uso de todos os termos da extensão é opicional e devem ser combinados a outros esquemas de metadados, como <a href="https://dwc.tdwg.org">Darwin Core</a> e <a href="https://eml.ecoinformatics.org">Ecological Metadata Language</a>.
 
-2 - Os metadados foram elaborados conforme o grid de interações ecológicas desenvolvido por Soares (2019, p. XX). As interações harmônicas interespecíficas (entre espécies diferentes) foram selecionadas como recorte e escopo dos metadados.
+2 - Os metadados foram elaborados conforme o grid de interações ecológicas desenvolvido por <a href="https://www.doi.org/10.13140/RG.2.2.14404.45446">Soares (2019, p. 119)</a>. As interações harmônicas interespecíficas (entre espécies diferentes) foram selecionadas como recorte e escopo dos metadados.
 
 3 - Mutualismo e protocooperação são interações semanticamente muito parecidas e não há consenso na literatura sobre as diferenças entre os dois tipos de interação. Por isso, adotou-se apenas mutualismo como termo do vocabulário para fins de representação. 
 
