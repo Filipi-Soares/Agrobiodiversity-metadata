@@ -78,3 +78,18 @@ This repository presents a group of terms that can be used as metadata elements 
 
 <b>OBSERVAÇÕES</b>: A melhor prática recomendada é inserir o nome científico completo da espécie, com autor e data, se conhecidos. 
 
+# inquilinismo
+<b>IDENT. CONCEITO</b>: inquilinismo
+
+<b>TIPO CONCEITO</b>: Entidade <i>Domínio</i>: interações ecológicas <i>Escopo</i>:
+
+<b>NAMESPACE CONCEITO</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#comensalismo
+
+<b>ETIQUETA LINGUÍSTICA</b>: Inquilinismo
+
+<b>USO</b>: opcional
+
+<b>DEFINIÇÃO</b>: Interação harmônica interespecífica em que um organismo obtém abrigo e/ou proteção a partir de outro, sem causar prejuízos ou benefícios para ele.
+
+<b>OBSERVAÇÕES</b>: Exemplo: bromélias que se desenvolvem sobre os troncos das árvores.
+
