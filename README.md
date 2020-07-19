@@ -8,7 +8,7 @@ This repository presents a group of terms that can be used as metadata elements 
 
 3 - Mutualismo e protocooperação são interações semanticamente muito parecidas e não há consenso na literatura sobre as diferenças entre os dois tipos de interação. Por isso, adotou-se apenas mutualismo como termo do vocabulário para fins de representação. 
 
-<b>Creators</b>: Filipi Miranda Soares; Raíssa Yuri Hamanaka
+<b>Creators</b>: <a href="http://lattes.cnpq.br/1290270601346793">Filipi Miranda Soares</a>; <a href="http://lattes.cnpq.br/7188479615806578">Raíssa Yuri Hamanaka</a>.
 
 <b>Date Issued</b>: 2020-07-19
 
