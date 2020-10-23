@@ -17,6 +17,9 @@
 
 # parasiteOf
 <b>Identifier</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#parasiteof.
+
 <b>Definition</b>: A living being that lives at the expense of another living being, harming it.
+
 <b>Comments</b>: The full scientific name, with authorship and date information if known, of the host species.
+
 <b>Example</b>: Euschistus heros (Fabricius, 1794)
