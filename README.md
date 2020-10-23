@@ -22,4 +22,4 @@
 
 <b>Comments</b>: The full scientific name, with authorship and date information if known, of the host species.
 
-<b>Example</b>: Euschistus heros (Fabricius, 1794)
+<b>Example</b>: <i>Euschistus heros</i> (Fabricius, 1794)
