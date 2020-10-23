@@ -17,9 +17,9 @@
 
 # Parasitism
 
-<font face= “Amaze” size= “3” color= “#FF8C00”>Class</font>
+<font face= “Calibri” size= “3” color= “#FF8C00”> Class </font>
 
-<b>Identifier</b>: .
+<b>Identifier</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#parasitism.
 
 <b>Definition</b>: Negative ecological interaction in which an organism, called a parasite, develops at the expense of another organism, called a host, harming it.
 
@@ -38,7 +38,7 @@
 <b>Example</b>: <i>Euschistus heros</i> (Fabricius, 1794)
 
 # hostTo
-<b>Identifier</b>: .
+<b>Identifier</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#hostto.
 
 <b>Definition</b>: A living being that provides shelter for another living being.
 
