@@ -17,7 +17,7 @@
 
 # Parasitism
 
-<div class="text-orange">Class</a> </div>
+Class
 
 <b>Identifier</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#parasitism.
 
@@ -29,6 +29,9 @@
 
 
 # parasiteOf
+
+Property
+
 <b>Identifier</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#parasiteof.
 
 <b>Definition</b>: A living being that lives at the expense of another living being, harming it.
@@ -38,6 +41,9 @@
 <b>Example</b>: <i>Euschistus heros</i> (Fabricius, 1794)
 
 # hostTo
+
+Property
+
 <b>Identifier</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#hostto.
 
 <b>Definition</b>: A living being that provides shelter for another living being.
