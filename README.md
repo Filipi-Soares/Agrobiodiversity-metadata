@@ -15,6 +15,19 @@
 
 # Metadata terms
 
+# Parasitism
+
+<font face= “Amaze” size= “3” color= “#FF8C00”>Class</font>
+
+<b>Identifier</b>: .
+
+<b>Definition</b>: Negative ecological interaction in which an organism, called a parasite, develops at the expense of another organism, called a host, harming it.
+
+<b>Comments</b>: 
+
+<b>Example</b>: Chaparral dodder in an Orange tree.
+
+
 # parasiteOf
 <b>Identifier</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#parasiteof.
 
@@ -23,3 +36,12 @@
 <b>Comments</b>: The full scientific name, with authorship and date information if known, of the host species.
 
 <b>Example</b>: <i>Euschistus heros</i> (Fabricius, 1794)
+
+# hostTo
+<b>Identifier</b>: .
+
+<b>Definition</b>: A living being that provides shelter for another living being.
+
+<b>Comments</b>: The full scientific name, with authorship and date information if known of the parasitic species.
+
+<b>Example</b>: <i>Telenomus podisi</i> (Ashmead, 1893)
