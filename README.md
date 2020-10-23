@@ -17,7 +17,9 @@
 
 # Parasitism
 
-<font face= “Calibri” size= “3” color= “#FF8C00”> Class </font>
+<div class="text-orange">
+  <a href="#" class="text-inherit">Class</a>
+</div>
 
 <b>Identifier</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#parasitism.
 
