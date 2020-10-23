@@ -18,7 +18,7 @@
 # Parasitism
 
 <div class="text-orange">
-  <a href="#" class="text-inherit">Class</a>
+  class="text-inherit">Class</a>
 </div>
 
 <b>Identifier</b>: https://github.com/Filipi-Soares/Agrobiodiversity-metadata/blob/Descritores/README.md#parasitism.
